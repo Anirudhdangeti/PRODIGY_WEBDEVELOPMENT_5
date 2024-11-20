@@ -1,0 +1,99 @@
+# PRODIGY_WEBDEVELOPMENT_5
+{
+  body {
+
+font-family: 'Roboto', sans-serif;
+
+background: linear-gradient(to right, #103072, 6285298); margin: 0; display: flex;
+
+padding: 0;
+
+justify-content: center;
+
+align-items: center;
+
+height: 100vh;
+
+overflow: hidden;
+
+container {
+
+background: rgba(255, 255, 255, 0.2); border-radius: 18px; text-align: center; box-shadow: 4px 15px rgba(0, 0, 0, 0.3); backdrop-filter: blur(30px);
+
+padding: 30px;
+
+max-width: 400px;
+
+width: 100%;
+
+margin-bottom: 20px;
+
+font-size: 2.5em;
+
+color: #ffff۴۴
+
+font-weight: 700;
+
+#location-form (
+
+margin-bottom: 28px;
+
+display: flex;
+
+justify-content: center;
+
+# location-input (
+
+padding: 10px;
+
+width: 280px;
+
+border: 1px solid #ccc; horder-radius: 5px 8 6 5px;
+
+outline: none;
+
+font-size: len;
+
+button (
+
+padding: 10px 20px;
+
+background-color: #f39c12; transition: background-color 6.35;
+
+color: #fff;
+
+border: none; border-radius: 6 5px 5px 8
+
+cursor: pointer;
+
+font-size: 10m;
+
+font-weight: 700;
+
+button:hover {
+
+background-color: #e67622;
+
+#weather-info {
+
+margin-top: 20px;
+  weather-info h2 (
+
+margin-bottom: 10px;
+
+font-size: 1.Ben;
+
+color: #۴۴۴٢٢٢
+
+font-weight: 700;
+
+Wweather-info p
+
+margin: 5px 0;
+
+font-size: 1.2em; color: #ffffff;
+
+hidden (
+
+display: none;
+  }
